@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": -96.82,
+        "lat": 33.15
+    },
+    "weather": [
+        {
+            "id": 721,
+            "main": "Haze",
+            "description": "haze",
+            "icon": "50d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 300.32,
+        "pressure": 1002,
+        "humidity": 69,
+        "temp_min": 298.15,
+        "temp_max": 302.15
+    },
+    "visibility": 11265,
+    "wind": {
+        "speed": 12.9,
+        "deg": 190,
+        "gust": 15.9
+    },
+    "clouds": {
+        "all": 75
+    },
+    "dt": 1493481300,
+    "sys": {
+        "type": 1,
+        "id": 2599,
+        "message": 0.0262,
+        "country": "US",
+        "sunrise": 1493466032,
+        "sunset": 1493514534
+    },
+    "id": 4692559,
+    "name": "Frisco",
+    "cod": 200
+}
